@@ -10,6 +10,7 @@ Esta **API REST** está construida con las siguientes tecnologías:
 - **MongoDB (MongoDB Atlas)**: Base de datos NoSQL para el almacenamiento de datos.
 - **Mongoose**: ODM para modelar los datos de MongoDB.
 - **JWT (JSON Web Tokens)**: Para la autenticación de usuarios.
+- **Cloudinary**: Para la gestión, subida y almacenamiento de imágenes.
 - **Insomnia**: Para realizar pruebas a los endpoints.
 
 ## Funcionalidades clave
